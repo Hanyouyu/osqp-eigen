@@ -14,7 +14,7 @@
 #include <Eigen/Dense>
 
 // OSQP
-#include </usr/local/include/osqp/osqp.h>
+#include </usr/local/share/osqp/codegen_files/inc/public/osqp.h>
 
 // OsqpEigen
 #include <OsqpEigen/Data.hpp>
