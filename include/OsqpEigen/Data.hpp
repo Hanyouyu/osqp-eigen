@@ -12,7 +12,7 @@
 #include <Eigen/Dense>
 
 // OSQP
-#include <osqp.h>
+#include </usr/local/share/osqp/codegen_files/inc/public/osqp.h>
 
 // OsqpEigen
 #include <OsqpEigen/SparseMatrixHelper.hpp>
