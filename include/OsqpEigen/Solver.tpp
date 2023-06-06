@@ -7,8 +7,8 @@
 
 #include <iostream>
 
-#include <usr/local/include/osqp/auxil.h>     
-#include <usr/local/include/osqp/scaling.h> 
+#include <osqp/private/auxil.h>     
+#include <osqp/private//scaling.h> 
 
 #include "Debug.hpp"
 
