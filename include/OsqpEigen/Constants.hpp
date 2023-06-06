@@ -9,7 +9,7 @@
 #define OSQPEIGEN_CONSTANTS_HPP
 
 // osqp
-#include </usr/local/include/osqp/osqp.h>
+#include </usr/local/share/osqp/codegen_files/inc/public/osqp.h>
 
 /**
  * OsqpEigen namespace.
